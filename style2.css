@@ -1,0 +1,129 @@
+.header
+{
+	height: 50px;
+}
+.more
+{
+	margin-left: 20px;
+	margin-top: 13px;
+}
+.main
+{
+	height: 1000px;
+}
+.content
+{
+	height: 1000px;
+}
+.video
+{
+	margin-top: 10px;
+}
+.info
+{
+	margin-top: 10px;
+	height: 75px;
+}
+.infoline
+{
+	height: 35px;
+}
+.views
+{
+	height: 35px;
+}
+.ld
+{
+	height: 35px;
+}
+.lidi
+{
+	height: 20px;
+	font-size: 11px;
+	font-weight: 400;
+	margin-top: 7px;
+}
+.ss
+{
+	height: 35px;
+}
+.ssimg
+{
+	height: 20px;
+	font-size: 12px;
+	font-weight: 400;
+	margin-top: 7px;
+}
+.descr
+{
+	height: 150px;
+	margin-top: 10px;
+}
+.comment
+{
+	height: 75px;
+	margin-top: 10px;
+}
+.logo
+{
+	height: 150px;
+}
+.descrtext
+{
+	height: 150px;
+}
+.grey
+{
+	color: grey	;
+}
+.dt1
+{
+	height: 60px;
+}
+.dt2
+{
+	height: 75px;
+
+}
+.dt3
+{
+	font-size: 12px;
+	margin-left: 0;
+	margin-top: 0;
+	margin-bottom: 0;
+}
+.dtext
+{
+	font-size: 12px;
+}
+.moretext
+{
+	font-size: 14px;
+}
+.commentinfo
+{
+	height: 25px;
+}
+.commentinput
+{
+	padding: 5px;
+	height: 50px;
+}
+.sub
+{
+	border-radius: 0px;
+	margin-top: 17px;
+	margin-left: 20px;
+}
+.rlogo
+{
+	height: 100px;
+}
+.rtext
+{
+	height: 100px;
+}
+.suggest
+{
+	height: 100px;
+}
